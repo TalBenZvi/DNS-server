@@ -14,3 +14,7 @@ Command line arguments: <br>
 [myPort] [parentIP] [parentPort] [ipsFileName] <br>
 <br>
 *parentIP and parentPort are -1 for the root server
+<br> <br>
+
+## Testing
+Test the server using the provided 'client.py', type your requested domain and recieve the IP adress throught the command line. For your convenience, an example IP's text file is also provided.  
